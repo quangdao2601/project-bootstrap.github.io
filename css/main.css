@@ -1,0 +1,70 @@
+
+.main-menu{
+    margin-bottom: 0px;
+}
+.slide-banner{
+    z-index: 0;
+}
+ul.main-menu li:hover a,ul.main-menu li.active a,.icon-sub-menu {
+    color: #ff0000!important;
+    text-decoration: none;
+}
+ul.main-menu li:hover .sub-menu{
+    display: block;
+}
+.sub-menu{
+    top: 37px;
+}
+.respon-menu{
+    display: none;
+} 
+
+.border-top{
+    border-top: 1px solid gray;
+}
+
+ul.category ,ul.list-social,.list-fashion,.list-new-product{
+    padding-left: 0px;
+}
+.carousel-indicators li{
+    background-color:black!important;
+}
+.carousel-indicators .active{
+    background-color: red!important;
+}
+.carousel-caption{
+    top: 20%;
+    left: 10%!important;
+
+}  
+.explore-more {
+    top:70%;
+    right:10%;
+}
+.explore-more-sm{
+    top:60%;
+    right:10%;
+}
+.list-best-selling{
+    padding-left: 0px;
+}
+a.page-link{
+    background-color:black;
+    color:white;
+}
+.page-item:hover .page-link{
+     background-color: red;
+     color: white;
+}
+
+.display-none{
+    display: none;
+}
+.see-more:hover{
+        background-color: red;
+        text-decoration: none;
+}
+
+.bg-copy-right{
+    background-color: #e2524a;
+}
